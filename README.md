@@ -1,4 +1,4 @@
-Stock Management Web Application
+****Stock Management Web Application
 
 
 
@@ -7,46 +7,46 @@ The primary goal of this stock management web application is to automate the pro
 
 Features :
 
-Category Management ![image](https://github.com/Mafqir/Stock-Management/assets/135064184/8fff4ef8-35a0-4360-8549-f261dcc63862)
+Category Management 🧾
 
 
-Create, Add, Edit, Delete Categories: Organize products into different categories for better inventory management.
-View Categories: Access a list of all categories with options to filter and search.
+✔️ Create, Add, Edit, Delete Categories: Organize products into different categories for better inventory management.
+✔️ View Categories: Access a list of all categories with options to filter and search.
 
-Brand Management
+Brand Management 🏷️
 
-Create, Add, Edit, Delete Brands: Manage various product brands and ensure accurate product categorization.
-View Brands: Access a list of all brands with detailed information.
+✔️ Create, Add, Edit, Delete Brands: Manage various product brands and ensure accurate product categorization.
+✔️ View Brands: Access a list of all brands with detailed information.
 
-Product Management
+Product Management 🛍️
 
-Create, Add, Edit, Delete Products: Add new products with detailed attributes such as name, category, brand, price, and stock quantity.
-View Products: Browse through a comprehensive list of all products with search and filter options.
+✔️ Create, Add, Edit, Delete Products: Add new products with detailed attributes such as name, category, brand, price, and stock quantity.
+✔️ View Products: Browse through a comprehensive list of all products with search and filter options.
 Inventory Tracking: Monitor stock levels and receive notifications for low stock.
 
-Customer Management
+Customer Management 🤩
 
-Create, Add, Edit, Delete Customers: Manage customer information, including contact details and addresses.
-View Customers: Access a list of all customers with options to filter and search.
+✔️ Create, Add, Edit, Delete Customers: Manage customer information, including contact details and addresses.
+✔️ View Customers: Access a list of all customers with options to filter and search.
 
-Supplier Management
+Supplier Management 🤑
 
-Create, Edit, Delete Suppliers: Maintain detailed records of suppliers and the products they provide.
-View Suppliers: Access a list of all suppliers with detailed information.
+✔️ Create, Edit, Delete Suppliers: Maintain detailed records of suppliers and the products they provide.
+✔️ View Suppliers: Access a list of all suppliers with detailed information.
 
-Purchase Management
+Purchase Management 🤑
 
-Create, Add, Edit, Delete Purchase Orders: Manage purchase orders, specifying suppliers, products, and quantities.
-View Purchase Orders: Track the status of purchase orders with detailed views and filters.
+✔️ Create, Add, Edit, Delete Purchase Orders: Manage purchase orders, specifying suppliers, products, and quantities.
+✔️ View Purchase Orders: Track the status of purchase orders with detailed views and filters.
 Inventory Updates: Automatically update stock levels upon receiving products from suppliers.
 
-Sales Management
+Sales Management 💰
 
-Create, Add, Edit, Delete Sales Orders: Manage sales orders, specifying customers, products, and quantities.
-View Sales Orders: Track the status of sales orders with detailed views and filters.
+✔️ Create, Add, Edit, Delete Sales Orders: Manage sales orders, specifying customers, products, and quantities.
+✔️ View Sales Orders: Track the status of sales orders with detailed views and filters.
 Inventory Updates: Automatically update stock levels upon completing sales transactions.
 
-Reporting and Dashboarding
+Reporting and Dashboarding 📊
 
-Generate Reports: Create detailed reports on stock levels, sales performance, purchase history, and more.
-Data Insights: Gain insights into business performance and make informed decisions based on comprehensive data.
+✔️ Generate Reports: Create detailed reports on stock levels, sales performance, purchase history, and more.
+✔️ Data Insights: Gain insights into business performance and make informed decisions based on comprehensive data.
